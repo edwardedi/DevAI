@@ -1,0 +1,52 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "summary": "Set in the racially charged South, this novel follows young Scout Finch as her father, Atticus, defends a black man wrongly accused of a crime. Through Scout's eyes, readers witness themes of justice, empathy, and moral growth. The story explores the complexities of human nature and prejudice."
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "summary": "In a dystopian future, Winston Smith struggles against a totalitarian regime that controls every aspect of life. Surveillance, propaganda, and thought control dominate society. Winston's rebellion leads to a harrowing journey of self-discovery and the consequences of defying authority."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "summary": "Elizabeth Bennet navigates societal expectations and personal prejudices in Regency England. Her encounters with the enigmatic Mr. Darcy challenge her views on love and class. The novel explores themes of marriage, reputation, and personal growth."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "summary": "Nick Carraway is drawn into the lavish world of Jay Gatsby, whose mysterious past and unrequited love for Daisy Buchanan drive the narrative. The story critiques the American Dream and the excesses of the Jazz Age. Tragedy unfolds amid wealth and illusion."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "summary": "Ishmael joins Captain Ahab's obsessive quest to hunt the white whale, Moby Dick. The voyage explores themes of revenge, fate, and humanity's struggle against nature. Melville's classic delves into philosophical questions and the limits of obsession."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "summary": "Holden Caulfield recounts his experiences in New York City after being expelled from prep school. His journey reveals his struggles with alienation, identity, and the loss of innocence. The novel captures the angst and confusion of adolescence."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "summary": "In a technologically advanced society, individuality is suppressed for the sake of stability and happiness. Bernard Marx questions the cost of conformity and artificial pleasure. The story examines the dangers of unchecked scientific progress and loss of humanity."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "summary": "Bilbo Baggins embarks on an unexpected adventure with a group of dwarves to reclaim their homeland from a dragon. Along the way, Bilbo discovers courage and resourcefulness. The tale is filled with magic, danger, and the importance of friendship."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "summary": "Victor Frankenstein creates a living being, only to be horrified by his own creation. The creature, rejected by society, seeks understanding and revenge. The novel explores themes of ambition, isolation, and the consequences of playing God."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "summary": "Santiago, a young shepherd, dreams of finding treasure in Egypt. His journey becomes a quest for personal fulfillment and spiritual enlightenment. The story emphasizes the importance of following one's dreams and listening to one's heart."
+  }
+]

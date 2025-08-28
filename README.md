@@ -1,5 +1,5 @@
 # Dependencies
-pip install streamlit openai chromadb
+```pip install streamlit openai chromadb```
 
 # Run
-streamlit run source.py
+```streamlit run source.py```
